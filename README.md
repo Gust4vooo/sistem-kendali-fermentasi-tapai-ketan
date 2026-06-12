@@ -4,7 +4,7 @@ Repositori ini berisi *source code* Arduino untuk sistem kendali *closed-loop* y
 
 Sistem ini dirancang untuk mengatasi masalah ketidakstabilan suhu pada proses fermentasi tapai ketan skala UMKM dengan menjaga suhu secara otomatis dan adaptif pada rentang optimal 35°C hingga 40°C..
 
-## 👨‍💻 Penulis
+## Penulis
 * **Nama:** Gusti Muhammad Risandha
 * **NIM:** 11221028
 * **Program Studi:** Informatika
